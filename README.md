@@ -15,4 +15,4 @@ Created by Ruben Ravatsaas. Check out my website at [binarypoetry.co](http://bin
 </bp-masonry-layout>
 ```
 
-That's all tehre's to it. Enjoy!
+That's all there's to it. Enjoy!
