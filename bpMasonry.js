@@ -1,4 +1,4 @@
-angular.module('bybl')
+angular.module('bbMasonry')
 
 .directive('bpMasonryLayout', ['$window', function($window) {
 	var el;
